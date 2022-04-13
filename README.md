@@ -15,6 +15,8 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
     rel="noreferrer">  </a> <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img
       src="https://brandslogos.com/wp-content/uploads/images/intellij-idea-logo.png" alt="intellij" width="40"
+    rel="noreferrer">  </a> <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img
+      src="https://i.imgur.com/LO1P9pm.png" alt="rustlang" width="40"
     rel="noreferrer">  </a> <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img
       src="https://www.rust-lang.org/logos/rust-logo-128x128-blk.png" alt="rustlang" width="40"
     rel="noreferrer">  </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
