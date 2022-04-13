@@ -3,7 +3,12 @@
 - 🌱 I’m currently learning Rust and use Java for Backend Development 
 
 - 📫 How to reach me **steve.oberst2@gmx.de**
-<br>
+
+### <i>About</i>
+
+-  **Learning :** Rust Lang 🤓
+-  **Languages :** Java, Rust ⚡
+-  **Hobbies :** Programming & Anime 💻
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
       </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
