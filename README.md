@@ -9,7 +9,7 @@
 <p align="left">
   <a href="https://www.spigotmc.org/members/sxlver_.752114/" target="blank"><img align="center"
       src="https://www.vhv.rs/dpng/d/445-4454243_craft-bukkit-logo-spigot-logo-hd-png-download.png"
-      alt="Sxlver" height="40" width="40" /></a>
+      alt="Sxlver" height="70" width="70" /></a>
 </p>
 <br>
 
