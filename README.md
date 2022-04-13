@@ -3,8 +3,13 @@
 - 🌱 I’m currently learning Rust and use Java for Backend Development 
 
 - 📫 How to reach me **steve.oberst2@gmx.de**
-
-
+<br>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+      height="40" /> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
+    rel="noreferrer">  </a> </p>
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sxlver&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="sxlver" /></p>
 
 <!--
