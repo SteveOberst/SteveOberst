@@ -19,7 +19,6 @@
       alt="mysql" width="40" height="40" /> </a> </p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sxlver&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="sxlver" /></p>
-https://p7.hiclipart.com/preview/999/647/775/computer-icons-microsoft-visual-studio-visual-studio-code-ico.jpg
 <!--
 **Sxlver/Sxlver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
