@@ -3,14 +3,13 @@
 - 🌱 I’m currently learning Rust and use Java for Backend Development 
 
 - 📫 How to reach me **steve.oberst2@gmx.de**
-
 <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.spigotmc.org/members/sxlver_.752114/" target="blank"><img align="center"
       src="https://meshpie.com/wp-content/uploads/2020/04/spigot-300x300.png"
-      alt="Sxlver" height="30" width="40" /></a>
+      alt="Sxlver" height="40" width="40" /></a>
 </p>
 <br>
 
