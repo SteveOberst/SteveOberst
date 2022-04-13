@@ -3,15 +3,7 @@
 - 🌱 I’m currently learning Rust and use Java for Backend Development 
 
 - 📫 How to reach me **steve.oberst2@gmx.de**
-<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.spigotmc.org/members/sxlver_.752114/" target="blank"><img align="center"
-      src="https://www.vhv.rs/dpng/d/445-4454243_craft-bukkit-logo-spigot-logo-hd-png-download.png"
-      alt="Sxlver" height="70" width="70" /></a>
-</p>
-<br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sxlver&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="sxlver" /></p>
 
