@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Rust and use Java for Backend Development 
 
-- 📫 How to reach me **steve.oberst2@gmx.de**
+- 📫 How to reach me: **steve.oberst2@gmx.de** or **Sxlver#0001**
 
 ### <i>About</i>
 
