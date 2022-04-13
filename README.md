@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Rust and use Java for Backend Development 
+
+- 📫 How to reach me **steve.oberst2@gmx.de**
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sxlver&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="sxlver" /></p>
+
 <!--
 **Sxlver/Sxlver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
