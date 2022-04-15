@@ -9,6 +9,13 @@
 -  **Learning :** Rust Lang 🤓
 -  **Languages :** Java, Rust ⚡
 -  **Hobbies :** Programming & Anime 💻
+<h3 align="left">Connect with me:</h3> <p>
+      <img
+      src="https://i.imgur.com/En7gma0.png"
+      alt="discord" width="40" height="40" title="Sxlver#0001"/> </a>
+        <a href="https://www.spigotmc.org/members/sxlver_.752114/" target="_blank" rel="noreferrer"> <img
+      src="https://i.imgur.com/Fh1bf4d.png"
+      alt="spigotmc" width="50" height="35" /> </a> </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
       </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
@@ -24,7 +31,6 @@
       alt="mysql" width="40" height="40" /> </a> <a href="https://visualstudio.microsoft.com/de/" target="_blank" rel="noreferrer"> <img
       src="https://i.imgur.com/NZDfkj7.png"
       alt="visualstudio" width="40" height="40" /> </a> </p>
-
 
 #
 
