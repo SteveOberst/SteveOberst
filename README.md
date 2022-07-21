@@ -7,7 +7,7 @@
 ### <i>About</i>
 
 -  **Learning :** C++ 🤓
--  **Languages :** Java, Rust ⚡
+-  **Languages :** Java, C ⚡
 -  **Hobbies :** Programming & Anime 💻
 
 <h3 align="left">Connect with me:</h3> <p>
