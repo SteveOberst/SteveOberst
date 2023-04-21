@@ -8,7 +8,7 @@
 
 -  **Learning :** C++ 🤓
 -  **Languages :** Java, C ⚡
--  **Hobbies :** Programming & Anime 💻
+-  **Hobbies :** Programming 💻
 
 <h3 align="left">Connect with me:</h3> <p>
       <img
