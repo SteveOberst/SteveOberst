@@ -6,8 +6,8 @@
 
 ### <i>About</i>
 
--  **Learning :** C++ 🤓
--  **Languages :** Java, C ⚡
+-  **Learning :** C# 🤓
+-  **Languages :** Java, C, C++ ⚡
 -  **Hobbies :** Programming 💻
 
 <h3 align="left">Connect with me:</h3> <p>
