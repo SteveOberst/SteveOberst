@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning C++ and use Java for Backend Development 
+- 🌱 I’m currently learning C# and use C++ for KMDF and Desktop Development, Java for Backend Development and C# for Desktop, Backend and Microservices development. 
 
 - 📫 How to reach me: **steve.oberst2@gmx.de** or **Sxlver#0001**
 
