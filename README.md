@@ -1,37 +1,23 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning C# and use C++ for KMDF and Desktop Development, Java for Backend Development and C# for Desktop, Backend and Microservices development. 
+- 🌱 I'm currently using a variaty of technologies to build scalable and robust web applications, test the security of games, program microcontrollers for personal use and mod games.
 
-- 📫 How to reach me: **steve.oberst2@gmx.de** or **Sxlver#0001**
+- 📫 How to reach me: **Sxlver** (on Discord)
 
 ### <i>About</i>
 
 -  **Learning :** C# 🤓
--  **Languages :** Java, C, C++ ⚡
+-  **Languages :** Java, C/C++, Assembly (~ARM, x64, x86) ⚡
 -  **Hobbies :** Programming 💻
 
-<h3 align="left">Connect with me:</h3> <p>
-      <img
-      src="https://i.imgur.com/En7gma0.png"
-      alt="discord" width="40" height="40" title="Sxlver#0001"/> </a>
-        <a href="https://www.spigotmc.org/members/sxlver_.752114/" target="_blank" rel="noreferrer"> <img
-      src="https://i.imgur.com/Fh1bf4d.png"
-      alt="spigotmc" width="50" height="35" /> </a> </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-      </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
-    rel="noreferrer">  </a> <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img
-      src="https://i.imgur.com/LO1P9pm.png" alt="rustlang" width="40"
-    rel="noreferrer">  </a> <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img
-      src="https://brandslogos.com/wp-content/uploads/images/intellij-idea-logo.png" alt="intellij" width="40"
-    rel="noreferrer">  </a> <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img
-      src="https://www.rust-lang.org/logos/rust-logo-128x128-blk.png" alt="rustlang" width="40"
-    rel="noreferrer">  </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" /> </a> <a href="https://visualstudio.microsoft.com/de/" target="_blank" rel="noreferrer"> <img
-      src="https://i.imgur.com/NZDfkj7.png"
-      alt="visualstudio" width="40" height="40" /> </a> </p> 
+### <i>Development Expertise</i>
+
+- **Fullstack Development:** I use Java for building robust web applications and creating reliable backend systems that manage databases and user interactions.
+- **2D/3D Rendering:** I have worked with a variaty of 2D/3D Graphics API(s), including DirectX(9-12) and OpenGL in order to produce visually appealing User Interfaces, Shaders and whatnot. 
+- **Microcontroller Development:** I leverage C, C++, and Assembly (ARM, x64, x86) for low-level programming on microcontrollers, focusing on hardware communication, game hacking, and reverse engineering.
+- **Desktop Development:** I utilize C# for building custom desktop applications, enhancing user experience and efficiency in software development.
+### There's still so much for me to learn and I'm looking forward to expand my skillset bit by bit every day. It's the journey of learning something new every day which makes software engineering so fun to me.
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SteveOberst&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -41,18 +27,3 @@
 <p align="center">
   <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
-
-<!--
-**SteveOberst/SteveOberst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
