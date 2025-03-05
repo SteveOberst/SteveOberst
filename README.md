@@ -13,7 +13,7 @@
 ### <i>Development Expertise</i>
 
 - **Fullstack Development:** I use Java for building robust web applications and creating reliable backend systems that manage databases and user interactions.
-- **2D/3D Rendering:** I have worked with a variaty of 2D/3D Graphics API(s), including DirectX(9-12) and OpenGL in order to produce visually appealing User Interfaces, Shaders and whatnot. 
+- **2D/3D Rendering:** I have worked with a variety of 2D/3D Graphics API(s), including DirectX(9-12) and OpenGL in order to produce visually appealing User Interfaces, Shaders and whatnot. 
 - **Microcontroller Development:** I leverage C, C++, and Assembly (ARM, x64, x86) for low-level programming on microcontrollers, focusing on hardware communication, game hacking, and reverse engineering.
 - **Desktop Development:** I utilize C# for building custom desktop applications, enhancing user experience and efficiency in software development.
 
