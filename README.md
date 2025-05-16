@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I'm currently using a variaty of technologies to build scalable and robust web applications, test the security of games, program microcontrollers for personal use and mod games.
+- 🌱 I'm currently using a variety of technologies to build scalable and robust web applications, test the security of games, program microcontrollers for personal use and mod games.
 
 - 📫 How to reach me: **Sxlver** (on Discord)
 
