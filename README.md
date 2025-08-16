@@ -38,7 +38,7 @@ Experience with **DirectX (9–12)** and **OpenGL** for creating interactive UIs
 ## 🧩 Skills & Tech
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,cs,cpp,c,js,ts,html,css,nodejs,react,nextjs,tailwind,postgres,mysql,redis,docker,linux,bash,git" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,cs,cpp,c,js,ts,html,css,nodejs,react,nextjs,tailwind,postgres,cassandra,mysql,redis,docker,linux,bash,git" />
 </p>
 
 ---
