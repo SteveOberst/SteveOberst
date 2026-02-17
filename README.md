@@ -1,13 +1,17 @@
-# Steve Oberst
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7971E,100:FFD200&height=200&section=header&text=Hello%20there%20👋&fontSize=45&fontColor=000000&animation=twinkling&fontAlignY=35" />
+</p>
 
-Software Engineer focused on systems, performance and security.  
+## Steve Oberst
+
+A Software Engineer focused on web, systems, performance and security.  
 Interested in anti-cheat engineering, reverse engineering, web development and low-level development. 
 
 ---
 
 ## About
 
-I am a fairly versatile developer building software across the stack — from bare metal microcontrollers over backend systems to modern frontend and game infrastructure.
+I am a fairly versatile developer building software across the stack - from bare metal microcontrollers over backend systems to modern frontend and game infrastructure.
 
 My core interests:
 - (Game-)security & anti-cheat research
@@ -28,7 +32,7 @@ Based in Germany.
 - Spring/Ktor ecosystem
 - Game Development
 - Serialization systems (kotlinx.serialization)
-- Database-backed systems (PostgreSQL, Redis)
+- Database-backed systems (PostgreSQL, Cassandra, Mongodb, Redis, yadda yadda)
 
 ### Game Security & Reverse Engineering
 - Researching anti-cheat techniques and bypass vectors
@@ -125,3 +129,7 @@ Actively working toward:
 ## Contact
 
 Discord: `Sxlver`
+
+<p align="center">
+  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
