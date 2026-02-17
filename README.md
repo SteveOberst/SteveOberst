@@ -20,6 +20,7 @@ My core interests:
 - High-performance backend systems
 - Machine learning
 - Graphics processing
+- Mobile Development
 
 Based in Germany.
 
@@ -81,9 +82,7 @@ Based in Germany.
 - Ansible
 - Tailscale VPN
 - Grafana OSS, Grafana Loki, Signoz, Prometheus, OpenTelemetry
-- Docker
-- Docker Swarm
-- Kubernetes
+- Docker, Docker Swarm, Kubernetes
 
 #### SQL & NoSQL Databases
 - PostgreSQL, SQLServer, MariaDB
@@ -106,7 +105,7 @@ Based in Germany.
 - Processhacker
 - VMWare/VirtualBox
 - Windows Kernel development kit (WDK)
-- Different IDEs like IntellijIdea, VS Code, Visual Studio, QT Creator
+- Different IDEs like IntellijIdea, VS Code, Android Studio, Visual Studio, QT Creator
 - Cheat Engine
 - ReClass.NET
 - Hetzner Cloud/Hetzner Robot, OVH Cloud/Baremetal
@@ -121,6 +120,7 @@ Actively working toward:
 - Entry- to mid-level web development roles, preferably in the backend
 - Entry-level security research/anti-cheat engineering roles
 - Entry-level game development roles
+- Entry-level mobile development roles
 - Deepening knowledge in reverse engineering
 - Strengthening low-level systems expertise
 
