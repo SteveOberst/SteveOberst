@@ -1,86 +1,127 @@
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7971E,100:FFD200&height=200&section=header&text=Hey%20there%20👋&fontSize=45&fontColor=000000&animation=twinkling&fontAlignY=35" />
-</p>
+# Steve Oberst
 
-<p align="center">
-  <b>🚀 Software Engineer • 🔒 Game Security Enthusiast • ⚡ Embedded Systems Tinkerer</b>
-</p>
+Software Engineer focused on systems, performance and security.  
+Interested in anti-cheat engineering, reverse engineering, web development and low-level development. 
 
 ---
 
-## 🌟 About Me
+## About
 
-- 🛠 **Technologies I Use:** Java, C(++), C#, Kotlin, JavaScript/TypeScript, Assembly (x86, x64)
-- 💡 **Currently Learning:** C#, advanced reverse engineering, and (anti-)cheat development  
-- 🎯 **Passions:** Scalable web applications, low-level microcontroller programming, reverse engineering, game hacking (for educational purposes), modding games, backend security  
-- 📍 **Located in:** Germany  
-- 📫 **Reach me on Discord:** **`Sxlver`**
+I am a fairly versatile developer building software across the stack — from bare metal microcontrollers over backend systems to modern frontend and game infrastructure.
 
----
+My core interests:
+- (Game-)security & anti-cheat research
+- Reverse engineering 
+- Embedded systems & bare-metal programming
+- High-performance backend systems
+- Machine learning
+- Graphics processing
 
-## 💻 What I Do
-
-### **🖥 Fullstack Development**
-I build robust and scalable backend systems (Java/Spring, Kotlin) and modern frontend experiences (Next.js, React, Tailwind) for projects ranging from panels to full blown e-commerce.
-
-### **🎮 Game Security & Reverse Engineering**
-Exploring the internals of games, researching anti-cheat techniques, and developing tools to detect and prevent exploits.
-
-### **🛠 Embedded Systems / Bare Metal Development**
-Programming STM32 microcontrollers in C and Assembly for personal projects, hardware communication, and performance-critical tasks.
-
-### **🎨 Graphics & Rendering**
-Experience with **DirectX (9–12)** and **OpenGL** for creating interactive UIs, shaders, and real-time effects.
+Based in Germany.
 
 ---
 
-## 🧩 Skills & Tech
+## Focus Areas
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,cs,cpp,c,js,ts,html,css,nodejs,react,nextjs,tailwind,postgres,cassandra,mysql,redis,docker,linux,bash,git" />
-</p>
+### Backend & Infrastructure
+- Java / Kotlin (primary stack)
+- Spring/Ktor ecosystem
+- Game Development
+- Serialization systems (kotlinx.serialization)
+- Database-backed systems (PostgreSQL, Redis)
 
----
+### Game Security & Reverse Engineering
+- Researching anti-cheat techniques and bypass vectors
+- Analyzing binaries and runtime behavior
+- Working with x86/x64 assembly
+- Building proof-of-concept detection systems
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SteveOberst&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SteveOberst&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🕹 Projects & Hobbies
-
-- 🔹 Designing **custom anti-cheat** proof-of-concepts for multiplayer games  
-- 🔹 Experimenting with **low-level ARM assembly** on STM32F407 Discovery Kit  
-- 🔹 Creating shaders, UI elements, and render pipelines with DirectX/OpenGL
-- 🔹 Modding Minecraft and automating tasks within the game
+### Graphics & Low-Level Rendering
+- DirectX (9–12)
+- OpenGL
+- Custom hand-drawn UI and shader experiments
 
 ---
 
-## 📈 Fun Extras
+## Selected Technical Work
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SteveOberst&theme=onedark&no-frame=true&margin-w=15&margin-h=15" />
-</p>
+- Research search engine indexing roughly 400m documents
+  - Managing and designing terrabyte scale distributed database infrastructure in order to achieve efficient lookups, storage and caching
+  - Streamlining deployment and provisioning of nodes
+  - Building and maintaining the backend
+  - Designing and building:
+    - the software that managed a GPU cluster to compute sparse embeddings for the index
+    - the opensearch index optimized for BM25 and sparse hybrid retrieval
+    - the backend & frontend using ktor and exposed for the rest and db access, frontend using react & nextjs
+---
 
-<p align="center">
-  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+## Tech Stack
+
+### Languages
+- Kotlin
+- Java
+- C
+- C++
+- C#
+- TypeScript / JavaScript
+- x86/x64 Assembly
+
+### Tools & Environment
+
+#### Familiar Environments
+- Linux
+- Windows
+  
+#### Deployment, OPS & Automation
+- CI/CD
+- Ansible
+- Tailscale VPN
+- Grafana OSS, Grafana Loki, Signoz, Prometheus, OpenTelemetry
+- Docker
+- Docker Swarm
+- Kubernetes
+
+#### SQL & NoSQL Databases
+- PostgreSQL, SQLServer, MariaDB
+- MongoDB
+- Cassandra
+- Redis
+
+#### Build Tools
+- Gradle / Maven
+- CMAKE
+
+#### VCS
+- Git
+
+#### Other tools that i have worked with
+- Elasticsearch/Opensearch
+- Ghidra/Ida
+- x64dbg
+- WinDbg
+- Processhacker
+- VMWare/VirtualBox
+- Windows Kernel development kit (WDK)
+- Different IDEs like IntellijIdea, VS Code, Visual Studio, QT Creator
+- Cheat Engine
+- ReClass.NET
+- Hetzner Cloud/Hetzner Robot, OVH Cloud/Baremetal
+- QT 
+
 
 ---
 
-<p align="center">
-  <i>💬 “The joy is in learning something new every day.”</i>
-</p>
+## Current Direction
 
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD200,100:F7971E&height=100&section=footer" />
-</p>
+Actively working toward:
+- Entry- to mid-level web development roles, preferably in the backend
+- Entry-level security research/anti-cheat engineering roles
+- Entry-level game development roles
+- Deepening knowledge in reverse engineering
+- Strengthening low-level systems expertise
+
+---
+
+## Contact
+
+Discord: `Sxlver`
