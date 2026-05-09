@@ -14,6 +14,7 @@ Interested in anti-cheat engineering, reverse engineering, web development and l
 I am a fairly versatile developer building software across the stack - from bare metal microcontrollers over backend systems to modern frontend and game infrastructure.
 
 My core interests:
+- Web development
 - (Game-)security & anti-cheat research
 - Reverse engineering 
 - Embedded systems & bare-metal programming
@@ -30,35 +31,15 @@ Based in Germany.
 
 ### Backend & Infrastructure
 - Java / Kotlin (primary stack)
-- Spring/Ktor ecosystem
-- Game Development
-- Serialization systems (kotlinx.serialization)
+- Spring/Ktor/gRPC ecosystem
 - Database-backed systems (PostgreSQL, Cassandra, Mongodb, Redis, yadda yadda)
+- Observability and traceability
 
 ### Game Security & Reverse Engineering
 - Researching anti-cheat techniques and bypass vectors
 - Analyzing binaries and runtime behavior
 - Working with x86/x64 assembly
 - Building proof-of-concept detection systems
-
-### Graphics & Low-Level Rendering
-- DirectX (9–12)
-- OpenGL
-- Custom hand-drawn UI and shader experiments
-
----
-
-## Selected Technical Work
-
-- Research search engine indexing roughly 400m documents
-  - Managing and designing terrabyte scale distributed database infrastructure in order to achieve efficient lookups, storage and caching
-  - Streamlining deployment and provisioning of nodes
-  - Building and maintaining the backend
-  - Designing and building:
-    - the software that managed a GPU cluster to compute sparse embeddings for the index
-    - the opensearch index optimized for BM25 and sparse hybrid retrieval
-    - the backend & frontend using ktor and exposed for the rest and db access, frontend using react & nextjs
----
 
 ## Tech Stack
 
@@ -82,7 +63,7 @@ Based in Germany.
 - Ansible
 - Tailscale VPN
 - Grafana OSS, Grafana Loki, Signoz, Prometheus, OpenTelemetry
-- Docker, Docker Swarm, Kubernetes
+- Docker, Docker Swarm, Kubernetes (K3s)
 
 #### SQL & NoSQL Databases
 - PostgreSQL, SQLServer, MariaDB
@@ -98,6 +79,7 @@ Based in Germany.
 - Git
 
 #### Other tools that i have worked with
+- Different IDEs like IntellijIdea, VS Code, Android Studio, Visual Studio, QT Creator
 - Elasticsearch/Opensearch
 - Ghidra/Ida
 - x64dbg
@@ -105,12 +87,17 @@ Based in Germany.
 - Processhacker
 - VMWare/VirtualBox
 - Windows Kernel development kit (WDK)
-- Different IDEs like IntellijIdea, VS Code, Android Studio, Visual Studio, QT Creator
 - Cheat Engine
 - ReClass.NET
 - Hetzner Cloud/Hetzner Robot, OVH Cloud/Baremetal
+- Compose Multiplatform
+- JNI/JVMTI (Java native interface/Java virtual machine tool interface)
 - QT 
 
+**... and the list goes on**
+
+*I have worked with many tools since starting my journey as a developer, and the list grows every day.*
+*The opportunity of learning something new every day, is what makes software engineering so fun to me.*
 
 ---
 
@@ -120,7 +107,6 @@ Actively working toward:
 - Entry- to mid-level web development roles, preferably in the backend
 - Entry-level security research/anti-cheat engineering roles
 - Entry-level game development roles
-- Entry-level mobile development roles
 - Deepening knowledge in reverse engineering
 - Strengthening low-level systems expertise
 
