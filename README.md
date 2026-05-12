@@ -116,6 +116,11 @@ Actively working toward:
 
 Discord: `Sxlver`
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-fast-khaki.vercel.app/api?username=SteveOberst&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-fast-khaki.vercel.app/api/streak?username=SteveOberst&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-fast-khaki.vercel.app/api/top-langs/?username=SteveOberst&layout=compact&theme=radical" />
+</div>
 <p align="center">
   <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
